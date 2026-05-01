@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/1776767663_phpp7v5mamabfud32gE67p.jpg",
             "image_position": "center center",
-            "text_box_position": "bottom-right",
+            "text_box_position": "bottom-left",
             "subheading": "Cooling clay therapy for skin that breathes.",
             "subheading_size": "h5",
             "heading": "Pores, cleared in 3 minutes.",
@@ -56,38 +56,6 @@
         "colors_navigation_background": "#1a1b18",
         "padding_top": 0,
         "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_yJEgih": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_pGUAFw": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "FREE SHIPPING OVER $30 • DELIVERY ALL OVER LEBANON • 30-DAY MONEY-BACK GUARANTEE • CASH ON DELIVERY AVAILABLE",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_pGUAFw"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#f5f1ea",
-        "colors_background": "#1a1b18",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "rich_text_iPTEGL": {
@@ -132,6 +100,38 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_yJEgih": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_pGUAFw": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE SHIPPING OVER $30 • DELIVERY ALL OVER LEBANON • 30-DAY MONEY-BACK GUARANTEE • CASH ON DELIVERY AVAILABLE",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_pGUAFw"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#f5f1ea",
+        "colors_background": "#1a1b18",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "featured_product_RCYCaB": {
