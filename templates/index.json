@@ -252,7 +252,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "FREE SHIPPING OVER $30 • DELIVERY ALL OVER LEBANON • 30-DAY MONEY-BACK GUARANTEE • CASH ON DELIVERY AVAILABLE",
             "text_size": 20,
             "link": ""
           }
@@ -268,8 +268,8 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_text": "#f5f1ea",
+        "colors_background": "#1a1b18",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -281,22 +281,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "How often should I use it?",
+            "text": "<p>1 to 2 times a week. More than that can over-dry the skin.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "Will it work for sensitive skin?",
+            "text": "<p>Yes — but patch-test on the jawline first. The PHA in the formula is the gentlest of the acids, and Guaiazulene calms redness.<br/><br/></p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "Why is it blue?",
+            "text": "<p>Guaiazulene, a natural compound from chamomile and yarrow, gives the mask its color and its cooling effect.<br/><br/></p>"
           }
         }
       },
