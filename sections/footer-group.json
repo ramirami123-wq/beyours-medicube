@@ -39,11 +39,11 @@
         "payment_enable": true,
         "show_policy": false,
         "copyright_text": "All rights reserved",
-        "colors_text": "#000000",
-        "colors_heading": "#000000",
-        "colors_link": "#000000",
-        "colors_border": "#000000",
-        "colors_background": "#8b6f47",
+        "colors_text": "#ffffff",
+        "colors_heading": "#ffffff",
+        "colors_link": "#ffffff",
+        "colors_border": "#ffffff",
+        "colors_background": "#f8007b",
         "gradient_background": ""
       }
     }
